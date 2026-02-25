@@ -1267,6 +1267,7 @@
                   "reference/wizard",
                   "reference/token-use",
                   "reference/prompt-caching",
+                  "reference/memory-retrieval-mechanism",
                   "channels/grammy"
                 ]
               },
